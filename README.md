@@ -143,7 +143,8 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
   #check
   #test
   #testw-4  
-  #testing                                                                                              
+  #testing 
+  #devops
   
                                                                                                         Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
