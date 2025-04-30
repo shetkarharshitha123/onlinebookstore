@@ -140,11 +140,9 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
 
-            on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]                                                                                            Project Leader<br/>
+  #check
+  #test
+  #testw-4                                                                                             Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
                                                                                                          
                                                                                                         
